@@ -12,4 +12,3 @@ else{
         console.log("seu numero esta invalido, nao estando entre 1 a 100, sendo " + num1)
     }
 
-    console.log("oi")
