@@ -2,7 +2,7 @@
 //  regra: salários menores que R$1000 recebem 20% de aumento, entre R$1000 e R$2000 recebem 15%, e acima de
 //  R$2000 recebem 10%.
 
-var salario = 2500
+var salario = 1000
 
 
 var salarioAumentado = 0

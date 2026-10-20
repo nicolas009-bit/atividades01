@@ -21,7 +21,6 @@ else{
     console.log("seu dia e invalido")
 } 
 
-//gyvygvgyvgy
 
 
 
@@ -42,3 +41,5 @@ else{
     console.log("seu ano e invalido")
 }
                           
+// ghvhvhvhv
+//sakdjkandskjandjknasjdnaj
