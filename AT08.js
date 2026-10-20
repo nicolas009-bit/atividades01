@@ -4,7 +4,7 @@ var ano = 2003
 
 
 if(dia <= 30){
-    if(mes == 3){
+    if(mes == 2){
         if(dia<=28){
             console.log("seu dia e valido")
 
